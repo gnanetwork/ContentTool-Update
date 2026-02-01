@@ -1,7 +1,5 @@
 {
-    "version": "V3.3",
-    "url": "https://github.com/gnanetwork/ContentTool-Update/releases/download/v3.3/ContentToolUpdate.zip",
-    "notes": "Big Update: Dark Mode & Fix API Key"
-
+    "version": "V3.4",
+    "url": "LINK_CỦA_V3.4",
+    "notes": "Fix lỗi Qt (Chuyển sang dạng thư mục để chạy ổn định)"
 }
-
