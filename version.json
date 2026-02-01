@@ -1,5 +1,6 @@
 {
-    "version": "V3.1",
-    "url": "https://github.com/gnanetwork/ContentTool-Update/raw/main/ContentToolV3.zip",
-    "notes": "Fixed Rewrite Localization and Type Safety."
+    "version": "V3.2",
+    "url": "https://github.com/gnanetwork/ContentTool-Update/releases/download/V3.2/ContentToolUpdate.zip",
+    "notes": "Big Update: Dark Mode & Fix API Key"
+
 }
